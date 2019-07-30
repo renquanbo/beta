@@ -1,0 +1,6 @@
+[submodule "Backend/location-engine-server"]
+	path = Backend/location-engine-server
+	url = https://github.com/renquanbo/location-engine-server.git
+[submodule "Frontend/location-engine-dashboard"]
+	path = Frontend/location-engine-dashboard
+	url = https://github.com/renquanbo/location-engine-dashboard.git
